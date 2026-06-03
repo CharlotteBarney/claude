@@ -1,0 +1,43 @@
+{
+  "date": "3 Jun 2026",
+  "company": "Harrington Starr",
+  "website": "harringtonstarr.com",
+  "contact_name": "Toby Babb",
+  "contact_title": "Founder & CEO, Harrington Starr Group",
+  "linkedin": "linkedin.com/in/toby-babb-32704411",
+  "company_bullets": [
+    "Multi-award-winning FinTech recruitment business - founded 2010",
+    "Offices in London, Belfast & New York; clients across 5 continents",
+    "~70 staff; HS Group unites Harrington Starr, North Starr & Search 5.0",
+    "Specialisms: technology, change & transformation, quant finance & sales",
+    "Clients: banks, hedge funds, payment providers, asset managers, start-ups",
+    "Won Best In-House Training & Best Employer Brand (Global Recruiter Awards)"
+  ],
+  "prospect_bullets": [
+    "Founder & CEO; ~25 years in FinTech recruitment",
+    "Named Agency Leader & Entrepreneur of the Year (Recruiter Magazine)",
+    "Industry voice: hosts FinTech Focus TV, edits The Financial Technologist",
+    "Chairs the Fintech Influencers community; speaks globally",
+    "Built training into the brand - ultimate budget holder for L&D"
+  ],
+  "why_fits": [
+    {
+      "headline": "You recruit for a living.",
+      "body": "Their entire business is placing FinTech tech & sales talent. Consultant call quality - BD, headhunting, qualification - directly drives billings. ORCA gives every desk weekly coaching and reps on exactly those skills, from agency founders and performance experts."
+    },
+    {
+      "headline": "Training is already in your DNA.",
+      "body": "HS won Best In-House Training and says 'training is at the beginning of everything.' ORCA isn't a culture change - it's leverage. It frees the exec team from running every session and adds an always-on, world-class curriculum on top of onboarding."
+    },
+    {
+      "headline": "Three brands, three cities, one bar.",
+      "body": "Harrington Starr, North Starr & Search 5.0 across London, Belfast & NYC. Live and on-demand coaching delivers the same standard to every consultant - graduate to senior - on every continent, with no trainers on planes."
+    }
+  ],
+  "open_with": [
+    "Training is at the beginning of everything here - how are you scaling that as the team grows across London, Belfast and New York?",
+    "You've won Best In-House Training - where does the exec team's time go that you'd love to hand to an always-on platform?",
+    "How consistent is the development experience for a graduate in Belfast versus a senior consultant in New York?",
+    "What's the gap between your top biller and your average biller right now - and what would closing it across three brands be worth?"
+  ]
+}
