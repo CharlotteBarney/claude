@@ -1,0 +1,3 @@
+# Generated proposal PDFs (outputs, not source)
+.claude/skills/orca-proposal/out/
+*.pdf

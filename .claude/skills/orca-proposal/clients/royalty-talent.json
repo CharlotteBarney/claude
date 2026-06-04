@@ -1,0 +1,16 @@
+{
+  "contact": "Ivan Duschatzky",
+  "company": "Royalty Talent",
+  "date": "4 June 2026",
+  "line_desc": "ORCA - Unlimited AI Call Coach access per user (fair usage applies)",
+  "currency": "£",
+  "unit_price": "42",
+  "qty": 5,
+  "line_total": "252.00",
+  "subtotal": "252.00",
+  "vat_label": "VAT (20%)",
+  "vat": "50.40",
+  "total_due": "302.40",
+  "term": "12 months",
+  "terms_url": "https://www.trainwithorca.com/terms-of-service"
+}

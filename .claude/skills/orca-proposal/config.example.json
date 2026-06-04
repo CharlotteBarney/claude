@@ -1,0 +1,18 @@
+{
+  "contact": "Peter Henry",
+  "company": "HW Anderson",
+  "date": "28 May 2026",
+  "headline_lines": ["Pick a call.", "Run it.", "Get better."],
+  "subhead": "Unlimited AI-driven call practice, instant scorecards, and a voice debrief that replaces the call-replay sessions your managers don't have time for.",
+  "line_desc": "ORCA - Unlimited AI Call Coach access per user (fair usage applies)",
+  "currency": "£",
+  "unit_price": "42",
+  "qty": 5,
+  "line_total": "210.00",
+  "subtotal": "210.00",
+  "vat_label": "VAT (20%)",
+  "vat": "42.00",
+  "total_due": "252.00",
+  "term": "12 months",
+  "terms_url": "https://www.trainwithorca.com/terms-of-service"
+}
